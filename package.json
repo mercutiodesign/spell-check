@@ -1,5 +1,5 @@
 {
-  "name": "spell-check",
+  "name": "spell-check-custom",
   "version": "0.67.1",
   "main": "./lib/main",
   "description": "Highlights misspelled words and shows possible corrections.",
@@ -8,7 +8,7 @@
     "spellchecker": "3.2.3",
     "underscore-plus": "^1"
   },
-  "repository": "https://github.com/atom/spell-check",
+  "repository": "https://github.com/mercutiodesign/spell-check",
   "license": "MIT",
   "engines": {
     "atom": "*"
